@@ -1,7 +1,3 @@
-# 💫 About Me:
-Software developer based in Brasil.<br>Loves martial arts, javascript, music, food and css.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rebeca-gasso-12606710b) 
 
